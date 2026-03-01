@@ -26,7 +26,7 @@ I enjoy building end-to-end ML pipelines, from preprocessing and model tuning to
 - 🔗 IEEE Xplore: https://ieeexplore.ieee.org/document/11296119
 
 
-### 🏨 Bali Hotel Review NLP Analysis
+### 🏨 From Reviews to Insights: Sentiment Analysis and Summarization of Bali Hotel Reviews
 
 - 📝 Developed a hotel review summarization and sentiment analysis system using Bali tourism review data
 - 💬 Implemented Aspect-Based Sentiment Analysis to classify sentiment across hotel aspects such as service, cleanliness, location, and price  
