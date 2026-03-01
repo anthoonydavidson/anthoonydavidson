@@ -1,6 +1,7 @@
 # Hi, I'm Anthony Davidson Salim 👋
 
 🎓 Computer Science Student at BINUS University
+
 📊 Aspiring Data Scientist | Machine Learning & NLP Enthusiast  
 🌏 Exchange Student at University of Nottingham Ningbo China  
 
